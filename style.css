@@ -1,0 +1,32 @@
+body{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+#jogo{
+    width: 603px;
+    height: 605px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+.linha{
+    height: 200px;
+    width: 100%;
+    border-bottom: black solid 3px;
+    display: flex;
+}
+
+.casa{
+    width: 33%;
+    height: 100%;
+    border-right: black solid 3px;
+
+}
+
+
+
+
