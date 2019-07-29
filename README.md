@@ -12,5 +12,3 @@
 - O objectivo é conseguir três círculos ou três xis em linha, quer horizontal, vertical ou diagonal ,
 e ao mesmo tempo, quando possível, impedir o adversário de ganhar na próxima jogada.
 - Quando um jogador conquista o objetivo, costuma-se riscar os três símbolos.
-
-
