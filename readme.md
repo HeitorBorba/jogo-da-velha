@@ -1,9 +1,9 @@
-# jogo-da-velha
+﻿# jogo-da-velha
 
 ##Linguagens:
-###HTML;
-###CSS;
-###JAVASCRIPT.
+### HTML;
+### CSS;
+### JAVASCRIPT.
 
 #Regras:
 - O tabuleiro  é uma matriz  de três linhas por três colunas.
