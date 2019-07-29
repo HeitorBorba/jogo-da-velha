@@ -1,11 +1,11 @@
 # jogo-da-velha
 
-##Linguagens:
-###HTML;
-###CSS;
-###JAVASCRIPT.
+## Linguagens:
+### HTML;
+### CSS;
+### JAVASCRIPT.
 
-#Regras:
+# Regras:
 - O tabuleiro  é uma matriz  de três linhas por três colunas.
 - Dois jogadores escolhem uma marcação cada um, geralmente um círculo (O) e um xis (X).
 - Os jogadores jogam alternadamente, uma marcação por vez, numa lacuna que esteja vazia.
